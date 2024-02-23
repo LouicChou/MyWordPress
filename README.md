@@ -1,2 +1,4 @@
 # MyWordPress
-123
+雲端主機商
+. GoDaddy
+. InMotionhosting

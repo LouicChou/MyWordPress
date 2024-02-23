@@ -1,4 +1,5 @@
 # MyWordPress
 雲端主機商
-. GoDaddy
-. InMotionhosting
+- GoDaddy
+- InMotionhosting-
+- Site Ground
